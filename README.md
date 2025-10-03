@@ -5,3 +5,4 @@
 - race driver with skill points
 - pygame to visualize it?
 - visualizer with progress bar instead of pygame graphics?
+- spicy
