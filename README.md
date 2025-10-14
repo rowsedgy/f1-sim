@@ -6,3 +6,4 @@
 - pygame to visualize it?
 - visualizer with progress bar instead of pygame graphics?
 - spicy
+- augha
